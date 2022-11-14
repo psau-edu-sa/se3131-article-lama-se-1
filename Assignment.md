@@ -7,7 +7,7 @@ There is a video that talks about preparing for the job market and software engi
 This is the link for the video [How to Prepare for IT Job Market?](https://youtu.be/mDIoXmblQKU).
 
 ## My Summary
-  ## [Summary](file:///C:/Users/Lama/Documents/homeworks/How%20to%20prepare%20for%20IT%20job%20market.pdf)
+ [Summary](file:///C:/Users/Lama/Documents/homeworks/How%20to%20prepare%20for%20IT%20job%20market.pdf)
 
 
 
