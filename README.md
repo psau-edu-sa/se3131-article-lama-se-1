@@ -8,6 +8,8 @@ This is the link for the video [How to Prepare for IT Job Market?](https://youtu
 
 ## My Summary
 [Click here if you would like to see it!](https://drive.google.com/file/d/12CZelx3D3U1NoRWGTUjZvxYJX5dY8Nfw/view?usp=share_link)
+Or right here: 
+[How to prepare for IT job market.pdf](https://github.com/psau-edu-sa/se3131-article-lama-se-1/files/10007124/How.to.prepare.for.IT.job.market.pdf)
 
 
 
